@@ -7,6 +7,6 @@ public class CrearCuenta {
         System.out.println("hola");
         System.out.println("holax2");
         // Hola chamacos, ya vámonos a Álgebra
-        System.out.println("Muy buenos días")
+        System.out.println("Muy buenos días");
     }
 }
