@@ -5,5 +5,6 @@ public class CrearCuenta {
         cuentaDeVanya.saldo=10000;
         System.out.println("Saldo de la cuenta: " + cuentaDeVanya.saldo);
         System.out.println("hola");
+        System.out.println("holax2");
     }
 }
